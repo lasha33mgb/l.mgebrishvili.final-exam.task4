@@ -1,0 +1,5 @@
+Alice created a message and using her private key signed it digitally. 
+BoB received the message and verified Alices’s signature with her public certificate. 
+This type of verification ensures that the transaction of message is secured because only Alice could have created the message and signed it as she had a private key. 
+When Bob verified the signature successfully, Alice’s message gained trust as it confirmed that the message was created and signed by her, its integrity and confidentiality was safe. 
+If there were changes made within the message, Bob would not have been able to verify Alice;s signature. 
