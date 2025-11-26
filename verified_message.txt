@@ -1,0 +1,4 @@
+Content-type:  text/plain
+
+
+Hello Bob, this message is signed and encrypted just for you. - Alice
